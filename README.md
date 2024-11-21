@@ -1,6 +1,6 @@
 # flutter_flavor
 
-A new Flutter project.
+A Flutter projet to learn how to implement flavor
 
 ## Getting Started
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+# How to launch the app
+
+```bash
+flutter run --flavor dev -t lib/main_dev.dart  # For the dev version
+flutter run --flavor prod -t lib/main_prod.dart  # For the prod version
+```
