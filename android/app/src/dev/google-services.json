@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974698416663",
+    "project_id": "jointly-d71ad",
+    "storage_bucket": "jointly-d71ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974698416663:android:4109116434a8632669ea52",
+        "android_client_info": {
+          "package_name": "com.jointlyapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA21HbfHqS_DlnEhL-GUsKDYCD37Rqtp-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974698416663:android:65a0f75d6a901c8169ea52",
+        "android_client_info": {
+          "package_name": "com.jointlyapp.app.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA21HbfHqS_DlnEhL-GUsKDYCD37Rqtp-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

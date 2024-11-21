@@ -10,7 +10,7 @@ android {
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
-    flavorDimensions "default"
+flavorDimensions "default"
     productFlavors {
         dev {
             dimension "default"
